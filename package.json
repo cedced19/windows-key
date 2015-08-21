@@ -1,0 +1,37 @@
+{
+  "name": "windows-key",
+  "version": "0.0.2",
+  "description": "Get your Windows product key.",
+  "main": "windows-key.js",
+  "bin": {
+    "windows-key": "windows-key.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cedced19/windows-key"
+  },
+  "keywords": [
+    "genuine",
+    "product",
+    "key",
+    "keys",
+    "windows",
+    "win",
+    "window"
+  ],
+  "bugs": {
+    "url": "https://github.com/cedced19/windows-key/issues"
+  },
+  "homepage": "https://github.com/cedced19/windows-key",
+  "author": {
+    "name": "Cédric",
+    "email": "cedced19@gmail.com",
+    "url": "https://github.com/cedced19"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://cedced19.github.io/license/"
+    }
+  ]
+}
